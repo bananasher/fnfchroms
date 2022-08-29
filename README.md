@@ -12,6 +12,8 @@ chromatics made by me using fl studio, audacity and utau
 
 both asher chromatics made from samples of my own voice
 
+bf voice samples taken from week 2, 3, 4, and 7
+
 nene voice samples taken from [here](https://soundcloud.com/omegay/sharkboy-and-lava-girl-meme-song)
 
 alucard voice samples taken from closer by nine inch nails
