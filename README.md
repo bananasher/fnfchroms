@@ -17,3 +17,4 @@ bf voice samples taken from week 2, 3, 4, and 7
 NENE CHROM WORKS BETTER WITH HIGHER PITCH! for some reason it wouldn't let me pitch the whole thing up without messing the whole thing up
 
 matt and tom voice samples taken from hammer and fail
+tord voice samples taken from zombeh attack 2
